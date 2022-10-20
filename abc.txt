@@ -1,0 +1,21 @@
+hello moto , learning git commands
+
+git status
+git add .
+git commit -m "commit message"
+git log -> to see all the commit
+
+git revert head -> it will revert the previous commit
+
+git reset --hard -> it will reset the head to previous one
+
+git branch -> get the info about the branch we are currently working
+
+git branch child -> create a child branch 
+
+git checkout child -> switch to child branch
+
+to merge the main and child branch :->
+
+git checkout main -> first go to that branch where you want to merge the files
+git merge child -> merge the child branch to master branch
