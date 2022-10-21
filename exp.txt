@@ -3,3 +3,5 @@ keeping the child changes -> this is child branch changes
 done some changes to see the results in local area
 
 done changes in remote area
+
+some more changes in remote area
