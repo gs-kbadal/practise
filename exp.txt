@@ -1,1 +1,4 @@
-hello motto understand the basics of github
+
+hello moto, this is experiment file to checkout the merging teechinque
+
+also modified the child branch
