@@ -1,3 +1,1 @@
-hello moto, this is experiment file to checkout the merging teechinque
-
-also modified the child branch
+this is child branch changes
