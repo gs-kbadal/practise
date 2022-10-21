@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is modified file to see how merge working
-=======
-hello moto, this is experiment file to checkout the merging teechinque
->>>>>>> child
+hello motto understand the basics of github
