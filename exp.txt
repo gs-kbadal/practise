@@ -1,3 +1,5 @@
 keeping the child changes -> this is child branch changes
 
-made some changes in child branch
+made some changes 3 in child branch
+
+made some more changes 4 to push all the branches at once
