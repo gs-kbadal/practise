@@ -7,3 +7,5 @@ done changes in remote area
 some more changes in local area 2
 
 some changes 5 in main branch
+
+making changes in remote 6
