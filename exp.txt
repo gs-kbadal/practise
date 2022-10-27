@@ -1,5 +1,14 @@
 keeping the child changes -> this is child branch changes
 
-made some changes 3 in child branch
+done some changes to see the results in local area
 
-made some more changes 4 to push all the branches at once
+done changes in remote area
+
+some more changes in local area 2
+
+some changes 5 in main branch
+
+making changes 6 in local branch want to push 
+exact local to remote without any conflicts
+
+hello txt
